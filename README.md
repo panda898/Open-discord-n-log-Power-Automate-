@@ -29,3 +29,13 @@ step 6:name it what-ever you want!
 step 7:on your keybord click "ctrl v"
 
 step:to run to code on the top of your sreen you will see the ">" when you see it you will see "Run" click it and done!
+--end of how-to--
+
+thxs for downloading/seeing this github file!,
+
+powered by power automate!
+maked by the backrooms (dragon_red79)#8564 (discord)
+
+COPYING IS NOT ALOWED OR ACTING LIKE YOU MAKED THIS!,
+
+thx for your time!
